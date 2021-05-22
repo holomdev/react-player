@@ -8,7 +8,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
       id: uuidv4(),
-      active: false,
+      active: true,
       color: ["#F7B534", "#ED4733"],
       audio: "https://mp3.chillhop.com/serve.php/?mp3=16060",
     },
@@ -58,7 +58,7 @@ function chillHop() {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/04/35317644d6db24c3ca144619d03f2805fa702472-1024x1024.jpg",
       id: uuidv4(),
-      active: true,
+      active: false,
       color: ["#91A591", "#E6AF6E"],
       audio: "https://mp3.chillhop.com/serve.php/?mp3=8008",
     },
