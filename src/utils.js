@@ -36,7 +36,7 @@ function chillHop() {
       name: "Who Knows",
       artist: "Psalm Trees, Guillaume Muschalle",
       cover:
-        "https://chillhop.com/wp-content/themes/chillhop/assets/images/vinyl-double.png",
+        "https://chillhop.com/wp-content/uploads/2020/10/371dadcad6dee874bd96515ae5d19b6daef2f408-1024x1024.jpg",
       id: uuidv4(),
       active: false,
       color: ["#9D6D38", "#C7DFDA"],
