@@ -57,3 +57,15 @@
   border-radius: 20px;
   border: transparent;
 }
+
+.selected {
+  background: rgb(74, 90, 134);
+
+  &:hover {
+    background: rgb(74, 90, 134);
+  }
+
+  h3, h4 {
+    color: white;
+  }
+}
