@@ -72,6 +72,26 @@ function chillHop() {
       color: ["#60557F", "#EBADAA"],
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10130",
     },
+    {
+      name: "Lilo",
+      artist: "Middle School, The Field Tapes",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/02/08cbb0848f669e1bd8b5a5152c4b7d20edf1b499-1024x1024.jpg",
+      id: uuidv4(),
+      active: false,
+      color: ["#F6B17E", "#9AA3AE"],
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=11244",
+    },
+    {
+      name: "Today Feels Like Everyday",
+      artist: "Mama Aiuto",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/01/6b1bb8736ee3e972747bc11f312e31cf7f5823e4-1024x1024.jpg",
+      id: uuidv4(),
+      active: false,
+      color: ["#F6B17E", "#9AA3AE"],
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=12128",
+    },
   ];
 }
 
